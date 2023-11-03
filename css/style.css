@@ -13,6 +13,17 @@ header {
   display: flex;
 }
 
+header p {
+  font-family: Yellowtail;
+  font-size: 4rem;
+  color: black;
+  font-weight: bold;
+}
+
+header strong {
+  text-transform: uppercase;
+}
+
 nav {
   justify-content: flex-end;
 }
