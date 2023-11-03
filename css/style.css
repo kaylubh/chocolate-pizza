@@ -44,3 +44,23 @@ p {
   width: 900px;
   margin: 40px auto;
 }
+
+/* recipe */
+
+#recipe {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+}
+
+#recipe ul {
+  font-family: Patrick Hand SC;
+  text-transform: lowercase;
+  position: absolute;
+  top: 0;
+}
+
+#recipe img {
+  display: block;
+  margin: 0 auto;
+}
