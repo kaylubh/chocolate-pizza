@@ -1,3 +1,11 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+  margin: 40px auto;
+}
+
 /* header */
 
 header {
@@ -10,6 +18,21 @@ nav {
 
 /* title */
 
+#title {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-transform: uppercase;
+  color: gray;
+}
+
 h1 {
-  
+  font-family: Oswald;
+  font-size: 3rem;
+  font-weight: bold;
+  color: black;
+}
+
+#hero img {
+  margin: 30px auto;
 }
