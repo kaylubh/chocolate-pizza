@@ -1,0 +1,15 @@
+/* header */
+
+header {
+  display: flex;
+}
+
+nav {
+  justify-content: flex-end;
+}
+
+/* title */
+
+h1 {
+  
+}
